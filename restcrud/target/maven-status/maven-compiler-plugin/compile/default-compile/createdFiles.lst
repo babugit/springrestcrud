@@ -1,0 +1,16 @@
+example/spring/restcrud/service/controller/AppController.class
+example/spring/restcrud/business/manager/IApplicantManager.class
+example/spring/restcrud/database/manager/IOperations.class
+example/spring/restcrud/database/manager/impl/ApplicantDbManager.class
+example/spring/restcrud/business/manager/AbstractManager.class
+example/spring/restcrud/database/manager/IApplicantDbManager.class
+example/spring/restcrud/business/config/AppInitializer.class
+example/spring/restcrud/business/config/Utils.class
+example/spring/restcrud/business/config/ResponseStatus.class
+example/spring/restcrud/business/manager/impl/ApplicantManager.class
+example/spring/restcrud/business/config/Utils$1.class
+example/spring/restcrud/database/manager/AbstractHibernateManager.class
+example/spring/restcrud/business/config/AppConfig.class
+example/spring/restcrud/database/entity/Applicant.class
+example/spring/restcrud/business/entity/ApplicantInfo.class
+example/spring/restcrud/business/config/CORSFilter.class
