@@ -1,1 +1,1 @@
-# springrestcrud
+# A spring REST CRUD application
